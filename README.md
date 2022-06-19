@@ -1,3 +1,3 @@
 # SocketCalculator
 
-A socket calculator.
+A networking socket calculator
